@@ -1,20 +1,20 @@
-# Introduction to Klyro
+# Introduction to Ayush Intelligence
 
-Welcome to **Klyro AI**, a highly optimized premium AI chat interface. Designed with an "Ethereal Command Center" aesthetic, Klyro serves as a beautiful front-end client for connecting with state-of-the-art open source and commercial AI models.
+Welcome to **Ayush Intelligence**, a highly optimized premium AI chat interface. Designed with an "Ethereal Command Center" aesthetic, Klyro serves as a beautiful front-end client for connecting with state-of-the-art open source and commercial AI models.
 
-> **Note:** Klyro is a purely front-end interface. All intelligence is provided by the OpenRouter API.
+> **Note:** Ayush Intelligence is a purely front-end interface. All intelligence is provided by the OpenRouter API.
 
 ## Getting Started
 
-Using Klyro AI is designed to be completely frictionless:
+Using Ayush Intelligence is designed to be completely frictionless:
 
 ### Selecting Models
 
-Use the dropdown in the header to effortlessly switch between a variety of free reasoning and instruct models. By default, Klyro uses `Auto` which selects the best performing free model available at that moment via OpenRouter routing.
+Use the dropdown in the header to effortlessly switch between a variety of free reasoning and instruct models. By default, Ayush Intelligence uses `Auto` which selects the best performing free model available at that moment via OpenRouter routing.
 
 ### Chatting & Formatting
 
-Start typing in the input area at the bottom. Klyro fully supports **Markdown processing**. If you ask Klyro to write code, it will neatly format it into syntax-highlighted blocks that are highly readable thanks to our bundled `marked.js` processor.
+Start typing in the input area at the bottom. Ayush Intelligence fully supports **Markdown processing**. If you ask Ayush Intelligence to write code, it will neatly format it into syntax-highlighted blocks that are highly readable thanks to our bundled `marked.js` processor.
 
 ### Fast-track Interactions
 
@@ -29,8 +29,8 @@ If you're on a fresh screen without an active chat, you can click any of the gra
 - **Live Context Awareness:** The AI natively knows the current date and time to provide perfectly contextualized answers.
 - **History Persistence:** All your previous chats are stored seamlessly in your browser. Click the <kbd>Previous Chats</kbd> button on the right edge of the header to view and quickly reload old conversations and context.
 - **Editable Chat History:** Rename or delete past conversations to keep your workspace organized.
-- **Title Auto-generation:** Klyro intelligently intercepts your first prompt in any given session, summarizes it into a succinct phrase behind the scenes, and applies it as the saved chat title.
-- **Personalization:** Klyro will prompt you for your name upon your initial visit. It remembers this gracefully, applies your initial to your avatar, and updates its welcome dialogue to include your name.
+- **Title Auto-generation:** Ayush Intelligence intelligently intercepts your first prompt in any given session, summarizes it into a succinct phrase behind the scenes, and applies it as the saved chat title.
+- **Personalization:** Ayush Intelligence will prompt you for your name upon your initial visit. It remembers this gracefully, applies your initial to your avatar, and updates its welcome dialogue to include your name.
 - **Premium Experience:** Complete with glassmorphism overlays, SVG scaling, and high-framerate transitions for a 60fps interaction experience.
 - **Multimodel Support:** Multiple models support for klyro such as Gemma 4 , Nemetron and Qwen 3, etc.
 
@@ -44,9 +44,9 @@ If you're on a fresh screen without an active chat, you can click any of the gra
 
 ## Privacy & Data Security
 
-Klyro prioritizes user privacy inherently through its architectural design:
+Ayush Intelligence prioritizes user privacy inherently through its architectural design:
 
-- **Local Storage:** Your chat history, personalized name, preferences, and cookie consent are saved exclusively within your browser using the `localStorage` API. Klyro does not transmit an ounce of your personal data to any centralized database.
+- **Local Storage:** Your chat history, personalized name, preferences, and cookie consent are saved exclusively within your browser using the `localStorage` API. Ayush Intelligence does not transmit an ounce of your personal data to any centralized database.
 - **Direct Proxy:** Your AI prompts are securely sent directly to OpenRouter's API endpoints using the local API key configured within the application's core JavaScript. We do not inject telemetry, analytics, or trackers into this process.
 
 ---
