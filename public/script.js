@@ -1,7 +1,7 @@
 console.log("Klyro SVG v4.0 Loaded");
 
 const PROXY_URL = 'https://summer-limit-c821.ayushkunkulol5.workers.dev';
-const AI_NAME = "Klyro AI";
+const AI_NAME = "Ayush Intelligence";
 
 // ─────────────────────────────────────────────────────────────
 
