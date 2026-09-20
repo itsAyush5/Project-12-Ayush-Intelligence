@@ -1,6 +1,6 @@
 # Introduction to Ayush Intelligence
 
-Welcome to **Ayush Intelligence**, a highly optimized premium AI chat interface. Designed with an "Ethereal Command Center" aesthetic, Klyro serves as a beautiful front-end client for connecting with state-of-the-art open source and commercial AI models.
+Welcome to **Ayush Intelligence**, a highly optimized premium AI chat interface. Designed with an "Ethereal Command Center" aesthetic, Ayush Intelligence serves as a beautiful front-end client for connecting with state-of-the-art open source and commercial AI models.
 
 > **Note:** Ayush Intelligence is a purely front-end interface. All intelligence is provided by the OpenRouter API.
 
