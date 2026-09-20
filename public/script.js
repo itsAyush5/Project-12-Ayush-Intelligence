@@ -1,4 +1,4 @@
-console.log("Klyro SVG v4.0 Loaded");
+console.log("Ayush Intelligence SVG v4.0 Loaded");
 
 const PROXY_URL = 'https://summer-limit-c821.ayushkunkulol5.workers.dev';
 const AI_NAME = "Ayush Intelligence";
@@ -150,7 +150,7 @@ function promptChangeName() {
   const sub = overlay.querySelector('.name-modal-sub');
   const btn = document.getElementById('name-modal-btn');
   title.textContent = 'Change your name';
-  sub.textContent = 'Update how Klyro addresses you.';
+  sub.textContent = 'Update how Ayush Intelligence addresses you.';
   btn.textContent = 'Save →';
   input.value = getUserName();
   overlay.style.display = 'flex';
